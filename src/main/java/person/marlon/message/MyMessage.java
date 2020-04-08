@@ -2,7 +2,7 @@ package person.marlon.message;
 
 import com.google.protobuf.*;
 
-import javax.xml.ws.handler.MessageContext;
+//import javax.xml.ws.handler.MessageContext;
 import java.util.Map;
 
 public class MyMessage extends AbstractMessage {
